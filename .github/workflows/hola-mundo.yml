@@ -53,7 +53,7 @@ jobs:
           echo "--- Archivos en el repositorio ---"
           ls -la
 
-       - name: "Sobre mi"
+      - name: "Sobre mi"
         run: |
           echo "==========================================="
           echo "  Nombre:      Robinson Marin"
